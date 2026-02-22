@@ -1,4 +1,4 @@
-# Hi, I'm Patrick Grenier
+# Hi, I'm Patrick
 
 I'm a cybersecurity professional based in the **Dallas-Fort Worth area**, actively pursuing SOC Analyst and Security Analyst roles. I hold four GIAC certifications and have hands-on experience in endpoint defense, SIEM log analysis, Windows Event ID monitoring, and HTTP/HTTPS traffic analysis.
 
@@ -15,7 +15,7 @@ I'm a cybersecurity professional based in the **Dallas-Fort Worth area**, active
 
 ## Featured Project — JobTrack
 
-**[JobTrack](https://github.com/Irehund/JobTracker)** is a free, open-source desktop application I built to manage my own job search. It grew into a full-featured tool that I'm releasing publicly for other job seekers.
+**[JobTrack](https://github.com/Irehund/JobTrack)** is a free, open-source desktop application I built to manage my own job search. It grew into a full-featured tool that I'm releasing publicly for other job seekers.
 
 **What it does:**
 - Searches USAJobs, Indeed, LinkedIn, Glassdoor, and Adzuna simultaneously
@@ -27,7 +27,7 @@ I'm a cybersecurity professional based in the **Dallas-Fort Worth area**, active
 
 **Tech stack:** Python, CustomTkinter, SQLite, REST APIs, OAuth2, PyInstaller
 
-**[Download the latest release](https://github.com/Irehund/JobTracker/releases/latest)**
+**[Download the latest release](https://github.com/Irehund/JobTrack/releases/latest)**
 
 ---
 
