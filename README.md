@@ -13,9 +13,10 @@ I'm a cybersecurity professional based in the **Dallas-Fort Worth area**, active
 
 ---
 
-## Featured Project — JobTrack
+## Featured Projects
+### JobTrack
 
-**[JobTrack](https://github.com/Irehund/JobTrack)** is a free, open-source desktop application I built to manage my own job search. It grew into a full-featured tool that I'm releasing publicly for other job seekers.
+**[JobTrack](https://github.com/Irehund/JobTracker)** is a free, open-source desktop application I built to manage my own job search. It grew into a full-featured tool that I'm releasing publicly for other job seekers.
 
 **What it does:**
 - Searches USAJobs, Indeed, LinkedIn, Glassdoor, and Adzuna simultaneously
@@ -27,7 +28,23 @@ I'm a cybersecurity professional based in the **Dallas-Fort Worth area**, active
 
 **Tech stack:** Python, CustomTkinter, SQLite, REST APIs, OAuth2, PyInstaller
 
-**[Download the latest release](https://github.com/Irehund/JobTrack/releases/latest)**
+**[Download the latest release](https://github.com/Irehund/JobTracker/releases/latest)**
+
+### FitScore
+
+[FitScore](link) is a free, open-source desktop application I built to 
+optimize my resume for ATS systems during my job search.
+
+**What it does:**
+- Scores how well your resume matches a job description using Claude AI
+- Extracts and identifies missing ATS keywords
+- Provides targeted rewrite suggestions for weak sections
+- Exports a full results report to .docx
+- API key stored securely via system credential manager
+
+**Tech stack:** Python, CustomTkinter, Anthropic Claude API, python-docx, pdfplumber, PyInstaller
+
+[Download the latest release](https://github.com/Irehund/FitScore/releases/latest)
 
 ---
 
